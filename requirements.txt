@@ -1,0 +1,7 @@
+streamlit
+pandas
+pyarrow
+fastparquet
+pyyaml
+networkx
+matplotlib
